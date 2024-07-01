@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20yjenis&fontSize=50)
-
+![header](https://capsule-render.vercel.app/api?height=200)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+FE+Developer+YEJIN;)](https://git.io/typing-svg)
 
 <!--
