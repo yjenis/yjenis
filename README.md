@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div align='center'>
+
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=Welcome%20yjenis&fontSize=50&fontColor=FFFFFF)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+FE+Developer+YEJIN;)](https://git.io/typing-svg)
 <hr>
@@ -25,4 +25,4 @@
 <a href="mailto:mustardpinus@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mustardpinus@gmail.com"/></a></p>
 
-</div>
+
