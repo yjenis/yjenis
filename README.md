@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm%20Yejin&fontSize=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;I'm+FE+Developer+YEJIN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+FE+Developer+YEJIN;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <!--
 **yjenis/yjenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
